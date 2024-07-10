@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\boss\\Desktop\\roba\\esercizi_vari_pre_esame\\Rimuovi_Foglie\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A17BAB43-D10C-4C4B-920B-52B28FC67B3C}|Rimuovi_Foglie.vcxproj|C:\\Users\\boss\\Desktop\\roba\\esercizi_vari_pre_esame\\Rimuovi_Foglie\\main.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A17BAB43-D10C-4C4B-920B-52B28FC67B3C}|Rimuovi_Foglie.vcxproj|solutionrelative:main.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A17BAB43-D10C-4C4B-920B-52B28FC67B3C}|Rimuovi_Foglie.vcxproj|C:\\Users\\boss\\Desktop\\roba\\esercizi_vari_pre_esame\\Rimuovi_Foglie\\remove_leaves.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A17BAB43-D10C-4C4B-920B-52B28FC67B3C}|Rimuovi_Foglie.vcxproj|solutionrelative:remove_leaves.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "main.c",
+              "DocumentMoniker": "C:\\Users\\boss\\Desktop\\roba\\esercizi_vari_pre_esame\\Rimuovi_Foglie\\main.c",
+              "RelativeDocumentMoniker": "main.c",
+              "ToolTip": "C:\\Users\\boss\\Desktop\\roba\\esercizi_vari_pre_esame\\Rimuovi_Foglie\\main.c",
+              "RelativeToolTip": "main.c",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-06-06T08:34:52.186Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "remove_leaves.c",
+              "DocumentMoniker": "C:\\Users\\boss\\Desktop\\roba\\esercizi_vari_pre_esame\\Rimuovi_Foglie\\remove_leaves.c",
+              "RelativeDocumentMoniker": "remove_leaves.c",
+              "ToolTip": "C:\\Users\\boss\\Desktop\\roba\\esercizi_vari_pre_esame\\Rimuovi_Foglie\\remove_leaves.c",
+              "RelativeToolTip": "remove_leaves.c",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-06-06T08:29:56.342Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

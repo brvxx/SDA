@@ -1,0 +1,86 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\boss\\Desktop\\roba\\esercitazione_7\\Intersect\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0F9EBE6A-C7C8-4F84-A6BA-D66E5D5FCF3B}|Intersect.vcxproj|C:\\Users\\boss\\Desktop\\roba\\esercitazione_7\\Intersect\\intersect.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{0F9EBE6A-C7C8-4F84-A6BA-D66E5D5FCF3B}|Intersect.vcxproj|solutionrelative:intersect.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F9EBE6A-C7C8-4F84-A6BA-D66E5D5FCF3B}|Intersect.vcxproj|C:\\Users\\boss\\Desktop\\roba\\esercitazione_7\\Intersect\\main.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{0F9EBE6A-C7C8-4F84-A6BA-D66E5D5FCF3B}|Intersect.vcxproj|solutionrelative:main.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F9EBE6A-C7C8-4F84-A6BA-D66E5D5FCF3B}|Intersect.vcxproj|C:\\Users\\boss\\Desktop\\roba\\esercitazione_7\\Intersect\\list.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{0F9EBE6A-C7C8-4F84-A6BA-D66E5D5FCF3B}|Intersect.vcxproj|solutionrelative:list.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F9EBE6A-C7C8-4F84-A6BA-D66E5D5FCF3B}|Intersect.vcxproj|C:\\Users\\boss\\Desktop\\roba\\esercitazione_7\\Intersect\\elemtype.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{0F9EBE6A-C7C8-4F84-A6BA-D66E5D5FCF3B}|Intersect.vcxproj|solutionrelative:elemtype.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "list.c",
+              "DocumentMoniker": "C:\\Users\\boss\\Desktop\\roba\\esercitazione_7\\Intersect\\list.c",
+              "RelativeDocumentMoniker": "list.c",
+              "ToolTip": "C:\\Users\\boss\\Desktop\\roba\\esercitazione_7\\Intersect\\list.c",
+              "RelativeToolTip": "list.c",
+              "ViewState": "AQIAADUAAAAAAAAAAAAiwEUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-05-10T08:52:43.839Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "elemtype.c",
+              "DocumentMoniker": "C:\\Users\\boss\\Desktop\\roba\\esercitazione_7\\Intersect\\elemtype.c",
+              "RelativeDocumentMoniker": "elemtype.c",
+              "ToolTip": "C:\\Users\\boss\\Desktop\\roba\\esercitazione_7\\Intersect\\elemtype.c",
+              "RelativeToolTip": "elemtype.c",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-05-10T08:52:40.159Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "intersect.c",
+              "DocumentMoniker": "C:\\Users\\boss\\Desktop\\roba\\esercitazione_7\\Intersect\\intersect.c",
+              "RelativeDocumentMoniker": "intersect.c",
+              "ToolTip": "C:\\Users\\boss\\Desktop\\roba\\esercitazione_7\\Intersect\\intersect.c",
+              "RelativeToolTip": "intersect.c",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABsAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-05-10T08:50:56.148Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "main.c",
+              "DocumentMoniker": "C:\\Users\\boss\\Desktop\\roba\\esercitazione_7\\Intersect\\main.c",
+              "RelativeDocumentMoniker": "main.c",
+              "ToolTip": "C:\\Users\\boss\\Desktop\\roba\\esercitazione_7\\Intersect\\main.c",
+              "RelativeToolTip": "main.c",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAmwCUAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-05-10T08:33:53.991Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

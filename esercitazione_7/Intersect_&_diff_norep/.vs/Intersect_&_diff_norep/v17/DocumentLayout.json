@@ -1,0 +1,87 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\boss\\Desktop\\roba\\esercitazione_7\\Intersect_\u0026_diff_norep\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{309AC513-CE15-4EA3-B1A6-206907820C6E}|Intersect_\u0026_diff_norep.vcxproj|C:\\Users\\boss\\Desktop\\roba\\esercitazione_7\\Intersect_\u0026_diff_norep\\no_rep.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{309AC513-CE15-4EA3-B1A6-206907820C6E}|Intersect_\u0026_diff_norep.vcxproj|solutionrelative:no_rep.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\boss\\Desktop\\roba\\esercitazione_7\\Intersect\\intersect.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{309AC513-CE15-4EA3-B1A6-206907820C6E}|Intersect_\u0026_diff_norep.vcxproj|C:\\Users\\boss\\Desktop\\roba\\esercitazione_7\\Intersect_\u0026_diff_norep\\main.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{309AC513-CE15-4EA3-B1A6-206907820C6E}|Intersect_\u0026_diff_norep.vcxproj|solutionrelative:main.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{309AC513-CE15-4EA3-B1A6-206907820C6E}|Intersect_\u0026_diff_norep.vcxproj|C:\\Users\\boss\\Desktop\\roba\\esercitazione_7\\Intersect_\u0026_diff_norep\\elemtype.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{309AC513-CE15-4EA3-B1A6-206907820C6E}|Intersect_\u0026_diff_norep.vcxproj|solutionrelative:elemtype.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "intersect.c",
+              "DocumentMoniker": "C:\\Users\\boss\\Desktop\\roba\\esercitazione_7\\Intersect\\intersect.c",
+              "RelativeDocumentMoniker": "..\\Intersect\\intersect.c",
+              "ToolTip": "C:\\Users\\boss\\Desktop\\roba\\esercitazione_7\\Intersect\\intersect.c",
+              "RelativeToolTip": "..\\Intersect\\intersect.c",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-05-10T10:08:18.426Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "elemtype.c",
+              "DocumentMoniker": "C:\\Users\\boss\\Desktop\\roba\\esercitazione_7\\Intersect_\u0026_diff_norep\\elemtype.c",
+              "RelativeDocumentMoniker": "elemtype.c",
+              "ToolTip": "C:\\Users\\boss\\Desktop\\roba\\esercitazione_7\\Intersect_\u0026_diff_norep\\elemtype.c",
+              "RelativeToolTip": "elemtype.c",
+              "ViewState": "AQIAABIAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-05-10T10:05:30.134Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "no_rep.c",
+              "DocumentMoniker": "C:\\Users\\boss\\Desktop\\roba\\esercitazione_7\\Intersect_\u0026_diff_norep\\no_rep.c",
+              "RelativeDocumentMoniker": "no_rep.c",
+              "ToolTip": "C:\\Users\\boss\\Desktop\\roba\\esercitazione_7\\Intersect_\u0026_diff_norep\\no_rep.c",
+              "RelativeToolTip": "no_rep.c",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-05-10T09:46:54.837Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "main.c",
+              "DocumentMoniker": "C:\\Users\\boss\\Desktop\\roba\\esercitazione_7\\Intersect_\u0026_diff_norep\\main.c",
+              "RelativeDocumentMoniker": "main.c",
+              "ToolTip": "C:\\Users\\boss\\Desktop\\roba\\esercitazione_7\\Intersect_\u0026_diff_norep\\main.c",
+              "RelativeToolTip": "main.c",
+              "ViewState": "AQIAABYAAAAAAAAAAADwvycAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-05-10T09:43:14.429Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

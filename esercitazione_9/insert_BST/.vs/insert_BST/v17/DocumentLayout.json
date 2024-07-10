@@ -1,0 +1,55 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\boss\\Desktop\\roba\\esercitazione_9\\insert_BST\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{53B6D0B7-BF4E-4891-BA18-012B9922C3FF}|insert_BST.vcxproj|C:\\Users\\boss\\Desktop\\roba\\esercitazione_9\\insert_BST\\main.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{53B6D0B7-BF4E-4891-BA18-012B9922C3FF}|insert_BST.vcxproj|solutionrelative:main.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53B6D0B7-BF4E-4891-BA18-012B9922C3FF}|insert_BST.vcxproj|C:\\Users\\boss\\Desktop\\roba\\esercitazione_9\\insert_BST\\insert.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{53B6D0B7-BF4E-4891-BA18-012B9922C3FF}|insert_BST.vcxproj|solutionrelative:insert.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "main.c",
+              "DocumentMoniker": "C:\\Users\\boss\\Desktop\\roba\\esercitazione_9\\insert_BST\\main.c",
+              "RelativeDocumentMoniker": "main.c",
+              "ToolTip": "C:\\Users\\boss\\Desktop\\roba\\esercitazione_9\\insert_BST\\main.c",
+              "RelativeToolTip": "main.c",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABUAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-05-24T08:03:40.515Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "insert.c",
+              "DocumentMoniker": "C:\\Users\\boss\\Desktop\\roba\\esercitazione_9\\insert_BST\\insert.c",
+              "RelativeDocumentMoniker": "insert.c",
+              "ToolTip": "C:\\Users\\boss\\Desktop\\roba\\esercitazione_9\\insert_BST\\insert.c",
+              "RelativeToolTip": "insert.c",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAcwCkAAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-05-24T08:03:26.541Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
